@@ -19,8 +19,6 @@ def isPrime(N):
 		a=0
 		return a
 
-print isPrime(7)
-
 total=0
 
 for x in range(2,1000):	
